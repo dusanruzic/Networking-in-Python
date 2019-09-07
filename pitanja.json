@@ -1,0 +1,587 @@
+{
+   "quiz": {
+      "q1": {
+         "question": "Who won the World Cup 2018?",
+         "options": [
+            "France",
+            "Serbia",
+            "Germany",
+            "Italy"
+         ],
+         "answer": "France",
+		 "hint": "The capital city is Paris!"
+      },
+      "q2": {
+         "question": "When was Nikola Tesla born?",
+         "options": [
+            "1845.",
+            "1863.",
+            "1901.",
+            "1856."
+         ],
+         "answer": "1856.",
+		 "hint": "It's between 1840 and 1860!"
+      },
+      "q3": {
+         "question": "Java is _____",
+         "options": [
+            "Programming Language",
+            "TV Show",
+            "Capital city of Slovenia",
+            "River"
+         ],
+         "answer": "Programming Language",
+		 "hint": "It's like C!"
+      },
+      "q4": {
+         "question": "Where is Exit festival held?",
+         "options": [
+            "In Subotica",
+            "In Belgrade",
+            "In Novi Sad",
+            "In Nis"
+         ],
+         "answer": "In Novi Sad",
+		 "hint": "It's the northest city!"
+      },
+      "q5": {
+         "question": "5+5*5+5 is?",
+         "options": [
+            "55",
+            "35",
+            "20",
+            "100"
+         ],
+         "answer": "35",
+		 "hint": "It's finished with 5!"
+      },
+      "q6": {
+         "question": "Who is F1 World Champion?",
+         "options": [
+            "Lewis Hamilton",
+            "Sebastian Vettel",
+            "Fernando Alonso",
+            "Nico Rosberg"
+         ],
+         "answer": "Lewis Hamilton",
+		 "hint": "He is not a German!"
+      },
+      "q7": {
+         "question": "Who was the first president of the USA?",
+         "options": [
+            "Barack Obama",
+            "Abraham Lincoln",
+            "George Washington",
+            "Ronald Reagan"
+         ],
+         "answer": "George Washington",
+		 "hint": "What's the capital city of USA?"
+      },
+      "q8": {
+         "question": "On which island was Napoleon born?",
+         "options": [
+            "Réunion",
+            "Sicily",
+            "Lifou",
+            "Corsica"
+         ],
+         "answer": "Corsica",
+		 "hint": "It's French island!"
+      },
+      "q9": {
+         "question": "Who is the father of the atomic bomb?",
+         "options": [
+            "Nikola Tesla",
+            "Robert Oppenheimer",
+            "Thomas Alva Edison",
+            "Albert Einstein"
+         ],
+         "answer": "Robert Oppenheimer",
+		 "hint": "Tesla didn't invent everything!"
+      },
+      "q10": {
+         "question": "What is the lightest existing metal?",
+         "options": [
+            "Aluminium",
+            "Magnesium",
+            "Berylium",
+            "Titanium"
+         ],
+         "answer": "Aluminium",
+		 "hint": "Planes are made of that!"
+      },
+      "q11": {
+         "question": "Which planet is nearest the Sun?",
+         "options": [
+            "Venus",
+            "Earth",
+            "Saturn",
+            "Mercury"
+         ],
+         "answer": "Mercury",
+		 "hint": "You have to know this!"
+      },
+      "q12": {
+         "question": "What are the three primary colors?",
+         "options": [
+            "Blue, yellow and red",
+            "Blue, yellow and green",
+            "White, red and black ",
+            "Blue, green and red"
+         ],
+         "answer": "Blue, yellow and red",
+		 "hint": "Green is not a one!"
+      },
+      "q13": {
+         "question": "What is the name of the German airline?",
+         "options": [
+            "Air Germany",
+            "Lufthansa",
+            "Deutschland Flugzeug",
+            "Airways"
+         ],
+         "answer": "Lufthansa",
+		 "hint": "It does not start with an A!"
+      },
+      "q14": {
+         "question": "In which European city can you find the home of Anne Frank?",
+         "options": [
+            "Hague",
+            "Roterdam",
+            "Berlin",
+            "Amsterdam"
+         ],
+         "answer": "Amsterdam",
+		 "hint": "It's the capital of Netherland!"
+      },
+      "q15": {
+         "question": "Which animal is on the golden Flemish flag?",
+         "options": [
+            "Puma",
+            "Monkey",
+            "Tiger",
+            "Lion"
+         ],
+         "answer": "Lion",
+		 "hint": "It's the king of all animals!"
+      },
+      "q16": {
+         "question": "How long is the Great Wall of China?",
+         "options": [
+            "4000 miles",
+            "8000 miles",
+            "10000 miles",
+            "500 miles"
+         ],
+         "answer": "4000 miles",
+		 "hint": "It isn't that long!"
+      },
+      "q17": {
+         "question": "What kind of animal is the largest living creature on Earth",
+         "options": [
+            "Dinosaur",
+            "Elephant",
+            "Whale",
+            "Mouse"
+         ],
+         "answer": "Whale",
+		 "hint": "It lives in the ocean!"
+      },
+      "q18": {
+         "question": "After which animals are the Canary Islands named?",
+         "options": [
+            "Cats",
+            "Dogs",
+            "Eagles",
+            "Lions"
+         ],
+         "answer": "Dogs",
+		 "hint": "Who is the best human friend?"
+      },
+      "q19": {
+         "question": "Which dog used to be sacred in China?",
+         "options": [
+            "Rottweiler",
+            "Pekingese",
+            "Labrador",
+            "Akita"
+         ],
+         "answer": "Pekingese",
+		 "hint": "It's from Chine, too!"
+      },
+      "q20": {
+         "question": "In which city is the oldest zoo in the world?",
+         "options": [
+            "Prague",
+            "London",
+            "Vienna",
+            "Moscow"
+         ],
+         "answer": "Vienna",
+		 "hint": "It's the capital of Austria!"
+      },
+      "q21": {
+         "question": "How many oscars did the Titanic movie got?",
+         "options": [
+            "8",
+            "11",
+            "3",
+            "5"
+         ],
+         "answer": "11",
+		 "hint": "It's prime number!"
+      },
+      "q22": {
+         "question": "Who is the director of Reservoir Dogs?",
+         "options": [
+            "Quentin Tarantino",
+            "Robin Williams",
+            "Francis Ford Coppola",
+            "Colin Farell"
+         ],
+         "answer": "Quentin Tarantino",
+		 "hint": "Not the Godfather!"
+      },
+      "q23": {
+         "question": "Who was Mozart's great rival in Amadeus movie?",
+         "options": [
+            "Antonio Vivaldi",
+            "Antonio Salieri",
+            "Guiseppe Verdi",
+            "Giacomo Puccini"
+         ],
+         "answer": "Antonio Salieri",
+		 "hint": "His name is Antonio!"
+      },
+      "q24": {
+         "question": "Who did play the role of Peter Pan in the Peter Pan movie?",
+         "options": [
+            "Robert De Niro",
+            "Steve Martin",
+            "Robin Williams",
+            "Tom Hanks"
+         ],
+         "answer": "Robin Williams",
+		 "hint": "His surname is like singer called Robbie!"
+      },
+      "q25": {
+         "question": "What is the name of the prison in the film The Rock?",
+         "options": [
+            "Shawshank",
+            "Alcatraz",
+            "Fox River",
+            "Avenal State Prison"
+         ],
+         "answer": "Alcatraz",
+		 "hint": "There is a film with the same name!"
+      },
+      "q26": {
+         "question": "Which country is the origin of the cocktail Mojito?",
+         "options": [
+            "Cuba",
+            "Mexico",
+            "Brasil",
+            "Panama"
+         ],
+         "answer": "Cuba",
+		 "hint": "Havanananana!"
+      },
+      "q27": {
+         "question": "What is the well known drink from Greece?",
+         "options": [
+            "Ouzo",
+            "Vodka",
+            "Tequilla",
+            "Vinjak"
+         ],
+         "answer": "Ouzo",
+		 "hint": "Don't drink vinjak!"
+      },
+      "q28": {
+         "question": "What is the most famous Mexican beer?",
+         "options": [
+            "Heineken",
+            "Carlsberg",
+            "Corona",
+            "Stella"
+         ],
+         "answer": "Corona",
+		 "hint": "It's Vin Diesel's favorite movie!"
+      },
+      "q29": {
+         "question": "From which country is the famous Emmental Cheese?",
+         "options": [
+            "Switzerland",
+            "Germany",
+            "Serbia",
+            "Austria"
+         ],
+         "answer": "Switzerland",
+		 "hint": "I love Milka chocolate!"
+      },
+      "q30": {
+         "question": "What is Japanese sake made from?",
+         "options": [
+            "Bread",
+            "Bean",
+            "Mushroom",
+            "Rice"
+         ],
+         "answer": "Rice",
+		 "hint": "I can't help you here, sorry!"
+      },
+      "q31": {
+         "question": "What is Elvis Presley's middle name?",
+         "options": [
+            "Bred",
+            "Steven",
+            "Charles",
+            "Aaron"
+         ],
+         "answer": "Aaron",
+		 "hint": "It's the same name as basketball player Gordon!"
+      },
+      "q32": {
+         "question": "Which famous group was once known as The Quarrymen?",
+         "options": [
+            "Bon Jovi",
+            "The Rolling Stones",
+            "The Animals",
+            "The Beatles"
+         ],
+         "answer": "The Beatles",
+		 "hint": "John Lennon!"
+      },
+      "q33": {
+         "question": "What is the noisy invention of Louis Glass in 1890 called?",
+         "options": [
+            "Radio",
+            "Walkman",
+            "Jukebox",
+            "TV"
+         ],
+         "answer": "Jukebox",
+		 "hint": "First part of it's name is like Nissan's car!"
+      },
+      "q34": {
+         "question": "How many strings has a mandolin got?",
+         "options": [
+            "7",
+            "8",
+            "3",
+            "6"
+         ],
+         "answer": "8",
+		 "hint": "Steven Gerrard, Gerrard!!!"
+      },
+      "q35": {
+         "question": "What is the lowest male voice?",
+         "options": [
+            "Soprano",
+            "Alto",
+            "Bass",
+            "Tenor"
+         ],
+         "answer": "Bass",
+		 "hint": "All about that ...!"
+      },
+      "q36": {
+         "question": "How many lines has a music staff (or music stave) got?",
+         "options": [
+            "5",
+            "3",
+            "4",
+            "6"
+         ],
+         "answer": "5",
+		 "hint": "Give me ...!"
+      },
+      "q37": {
+         "question": "Who did win the most Grammy Awards in the 80?",
+         "options": [
+            "George Michael",
+            "Freddie Mercury",
+            "Prince",
+            "Michael Jackson"
+         ],
+         "answer": "Michael Jackson",
+		 "hint": "You've been hit by a Smooth Criminal!"
+      },
+      "q38": {
+         "question": "In which year did Maradona score a goal with his hand?",
+         "options": [
+            "1994",
+            "1982",
+            "1990",
+            "1986"
+         ],
+         "answer": "1986",
+		 "hint": "It was in Mexico!"
+      },
+      "q39": {
+         "question": "What is the name of the Liverpool football stadium?",
+         "options": [
+            "Anfield Road",
+            "Emirates",
+            "Etihad",
+            "Wembley"
+         ],
+         "answer": "Anfield Road",
+		 "hint": "It is the best stadium in the world!!!"
+      },
+      "q40": {
+         "question": "How many matches did Mohammed Ali lose in his career?",
+         "options": [
+            "2",
+            "4",
+            "0",
+            "1"
+         ],
+         "answer": "1",
+		 "hint": "It's really small number!"
+      },
+      "q41": {
+         "question": "Which car won Fernando Alonso his first tittle in Formula 1 with?",
+         "options": [
+            "Ferrari",
+            "Mercedes",
+            "Honda",
+            "Renault"
+         ],
+         "answer": "Renault",
+		 "hint": "It's French!"
+      },
+      "q42": {
+         "question": "How long is an Olympic swimming pool?",
+         "options": [
+            "100 m",
+            "50 m",
+            "25 m",
+            "75 m"
+         ],
+         "answer": "50 m",
+		 "hint": "Milorad Cavic won the gold vs Michael Phelps!"
+      },
+      "q43": {
+         "question": "In which sport can you win the Davis Cup?",
+         "options": [
+            "Football",
+            "Cricket",
+            "Tennis",
+            "Handball"
+         ],
+         "answer": "Tennis",
+		 "hint": "Novak Djokovic"
+      },
+      "q44": {
+         "question": "In which country were the first Olympic Games held?",
+         "options": [
+            "Great Britain",
+            "Greece",
+            "Serbia",
+            "SAD"
+         ],
+         "answer": "Greece",
+		 "hint": "It was in Europe!"
+      },
+      "q45": {
+         "question": "How many players has a hockey team got on the ice?",
+         "options": [
+            "5",
+            "6",
+            "11",
+            "9"
+         ],
+         "answer": "6",
+		 "hint": "More than basketball!"
+      },
+      "q46": {
+         "question": "What is the national sport in Japan?",
+         "options": [
+            "Rugby",
+            "Cricket",
+            "Sumo Wrestling",
+            "Table Tennis"
+         ],
+         "answer": "Sumo Wrestling",
+		 "hint": "They don't play rugby!"
+      },
+      "q47": {
+         "question": "Who killed the Minotaur?",
+         "options": [
+            "Epimethius",
+            "Hercules",
+            "Theseus",
+            "Achilles"
+         ],
+         "answer": "Theseus",
+		 "hint": "I really don't know how to help you here!"
+      },
+      "q48": {
+         "question": "In which country did Shakespeare s Hamlet live?",
+         "options": [
+            "Sweden",
+            "Denmark",
+            "Finland",
+            "Iceland"
+         ],
+         "answer": "Denmark",
+		 "hint": "Theirs favorite color is red!"
+      },
+      "q49": {
+         "question": "What is the name of the winged horse in Greek mythology?",
+         "options": [
+            "Pegasus",
+            "Argus",
+            "Isis",
+            "Aramis"
+         ],
+         "answer": "Pegasus",
+		 "hint": "It's Hercules horse!"
+      },
+      "q50": {
+         "question": "What is the capital of Turkey?",
+         "options": [
+            "Istanbul",
+            "Ankara",
+            "Antalya",
+            "Bursa"
+         ],
+         "answer": "Ankara",
+		 "hint": "It's not the biggest!"
+      },
+      "q51": {
+         "question": "How many continents are there?",
+         "options": [
+            "8",
+            "6",
+            "7",
+            "5"
+         ],
+         "answer": "7",
+		 "hint": "It's prime number"
+      },
+      "q52": {
+         "question": "What is the longest river in Europe?",
+         "options": [
+            "Danube",
+            "Ural",
+            "Wolga",
+            "Sava"
+         ],
+         "answer": "Wolga",
+		 "hint": "Definitely not Sava!"
+      },
+      "q53": {
+         "question": "Which European river does flow through six different countries?",
+         "options": [
+            "Danube",
+            "Ural",
+            "Wolga",
+            "Sava"
+         ],
+         "answer": "Danube",
+		 "hint": "Definitely not Sava!"
+      }
+   }
+}
